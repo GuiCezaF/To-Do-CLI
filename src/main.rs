@@ -1,7 +1,4 @@
-// src/main.rs
-
 use clap::Parser;
-use todo_cli::TodoList;
 
 #[derive(Parser)]
 struct Cli {
